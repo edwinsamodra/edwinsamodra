@@ -15,3 +15,7 @@ Software Engineer with 4+ years coding experience. Deep diving into automated ap
 **Programming:** `Javascript/Typescript` · `Vite Ecosystem` · `Vue.js/Nuxt` · `Express.js` · `Node.js`
 
 **Infrastructure:** `Linux` · `Docker` · `Kubernetes` · `Ansible` · `Terraform` · `Proxmox` · `AWS Cloud`
+
+### Experience
+
+Details are available in [EXPERIENCE.md](https://github.com/edwinsamodra/edwinsamodra/blob/main/EXPERIENCE.md)
