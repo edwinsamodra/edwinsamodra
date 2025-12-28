@@ -2,7 +2,10 @@
   <samp>
     <a href="https://edwinsamodra.com">my website</a> .
     <a href="https://linkedin.com/edwinsamodra">linkedin</a> .
-    <a href="https://threads.com/edwinsamodra">threads</a>
+    <a href="https://threads.com/edwinsamodra">threads</a> .
+    <a href="https://instagram.com/edwinsamodra">instagram</a> .
+    <a href="https://x.com/edwinsamodra">x</a> .
+    <a href="https://roadmap.sh/u/edwinsamodra">roadmap.sh</a>
   </samp>
 </p>
 
