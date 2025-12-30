@@ -2,8 +2,8 @@
   <samp>
     <a href="https://edwinsamodra.com">my website</a> .
     <a href="https://linkedin.com/edwinsamodra">linkedin</a> .
-    <a href="https://threads.com/edwinsamodra">threads</a> .
     <a href="https://instagram.com/edwinsamodra">instagram</a> .
+    <a href="https://threads.com/edwinsamodra">threads</a> .
     <a href="https://x.com/edwinsamodra">x</a> .
     <a href="https://roadmap.sh/u/edwinsamodra">roadmap.sh</a>
   </samp>
@@ -11,7 +11,7 @@
 
 ### Hi, I'm Edwin! 👋
 
-Software Engineer with 4+ years of coding experience, working across the full software development lifecycle and growing as a versatile engineer.
+Software Engineer with 4+ years of programming experience, able to work across the software development lifecycle and continuously develop as a versatile engineer.
 
 ### Technology Stack
 
@@ -21,4 +21,10 @@ Software Engineer with 4+ years of coding experience, working across the full so
 
 ### Experience
 
-Details are available in [EXPERIENCE.md](https://github.com/edwinsamodra/edwinsamodra/blob/main/EXPERIENCE.md)
+- 2016: Started learning how to code in computer & networking vocational high school
+- 2019: ERP Development (6 mos Internship Program) | Tech Stack: CodeIgniter 3
+- 2020-2024: Learning IT through formal education at brawijaya university
+- 2020–2024: College Projects | Tech Stack: Mostly using Laravel
+- 2023,2025: Company Profile Webiste | Tech Stack: Wordpress
+- 2023–2025: Proxmox UI Wrapper | Tech Stack: Express.js & Vite+Vue.js
+- Upcoming (2026): Unified Customer Portal & Billing System | Tech Stack: Nuxt
