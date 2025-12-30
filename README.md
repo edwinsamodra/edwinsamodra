@@ -25,6 +25,6 @@ Software Engineer with 4+ years of programming experience, able to work across t
 - 2019: ERP Development (6 mos Internship Program) | Tech Stack: CodeIgniter 3
 - 2020-2024: Learning IT through formal education at brawijaya university
 - 2020–2024: College Projects | Tech Stack: Mostly using Laravel
-- 2023,2025: Company Profile Webiste | Tech Stack: Wordpress
+- 2023,2025: Company Profile Website | Tech Stack: Wordpress
 - 2023–2025: Proxmox UI Wrapper | Tech Stack: Express.js & Vite+Vue.js
 - Upcoming (2026): Unified Customer Portal & Billing System | Tech Stack: Nuxt
