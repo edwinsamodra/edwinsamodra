@@ -11,7 +11,7 @@
 
 ### Hi, I'm Edwin! 👋
 
-Software Engineer with 4+ years coding experience. Deep diving into automated application deployment and monitoring on any infrastructure—from container orchestration to traditional servers. Dedicated to becoming a high-performance T-Shaped Engineer.
+Software Engineer with 4+ years of coding experience, working across the full software development lifecycle and growing as a versatile engineer.
 
 ### Technology Stack
 
