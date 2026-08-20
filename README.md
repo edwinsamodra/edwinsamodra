@@ -14,11 +14,12 @@ Software Engineer with 4+ years of programming experience, experienced in workin
 
 **Programming:** `Javascript/Typescript` · `Go` · `Vite Ecosystem` · `Vue.js/Nuxt` · `Express.js` · `Node.js`
 
-**Cloud and Infra:** `AWS` · `Cloudflare` · `Proxmox` · `NGINX`
+**Cloud and Infra:** `AWS` · `Cloudflare` · `Proxmox`
 
 
 ### Featured Projects
 
+- **[docs-platform-generator](https://github.com/edwinsamodra/docs-platform-generator)** - Documentation platform generator and knowledge base tool `TypeScript` `Node.js`
 - **[edwinsamodra.github.io](https://github.com/edwinsamodra/edwinsamodra.github.io)** - The new Web Profile built with Nuxt `Nuxt` `Vue.js` `TypeScript`
 - **[phishing-simulator](https://github.com/edwinsamodra/phishing-simulator)** - A custom tool for security awareness & phishing simulation `Go` `Docker`
 - **[gmaps-review-url-manager](https://github.com/edwinsamodra/gmaps-review-url-manager)** - URL shortener and redirect manager for Google Maps reviews `TypeScript` `Node.js`
@@ -27,4 +28,4 @@ Software Engineer with 4+ years of programming experience, experienced in workin
 - **Billing System** `(Private)` - Internal billing & invoice management system `Node.js` `Express.js` `EJS`
 - **zetup** `(Private)` - Automated system setup & deployment platform `Vue.js` `TypeScript` `Node.js`
 
-_visit [edwinsamodra.github.io](https://edwinsamodra.github.io) or surf my repositories to see more.._
+_visit [edwinsamodra.github.io](https://edwinsamodra.github.io) or explore my repositories to see even more.._
